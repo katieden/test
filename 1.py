@@ -15,3 +15,8 @@ for i in range(length):
             list1[i] = temp
 
 print(list1)
+
+print('branch1 commit1')
+print('branch1 2 commit')
+print('commit 3')
+
